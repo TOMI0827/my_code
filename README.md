@@ -1,4 +1,4 @@
-rails -v
+rails new todo-app -d postgresql
 Traceback (most recent call last):
 	22: from /Users/journ/.rbenv/versions/2.7.7/bin/rails:23:in `<main>'
 	21: from /Users/journ/.rbenv/versions/2.7.7/bin/rails:23:in `load'
